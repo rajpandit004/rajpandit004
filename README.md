@@ -1,16 +1,22 @@
-## Hi! I'm Raj Pandit 👋
+## Hi there! I'm Raj Pandit 👋
 
-<!--
-**rajpandit108/rajpandit108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ About Me
+I'm Raj Pandit, an aspiring Software Developer passionate about building intelligent and efficient solutions. I’m deeply interested in AI/ML, Data Science, and Backend Development, blending analytical thinking with real-world problem-solving. Currently, I’m diving deep into Python through the 100 Days of Code challenge to strengthen my programming skills.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Currently Learning
+- Python Programming
+- SQL (Structured Query Language)
+- Django (Python Framework)
+- Building Real-World Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills & Tech Stacks
+Tools and Technologies I know
+### Languages
+[![Languages](https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=light)](https://skillicons.dev)
+### Tools & Platforms
+[![Tools & Platforms](https://skillicons.dev/icons?i=vscode,pycharm,git,mysql,postgresql&theme=light)](https://skillicons.dev)
+
+## 📫 Connect With Me
+- [LinkedIn](linkedin.com/in/rajpandit004)
+- [X](x.com/rajpandit004)
+- [Email](mailto:panditraj618@gmail.com)
