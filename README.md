@@ -1,4 +1,4 @@
-## Hi I'm Raj 👋
+## Hi! I'm Raj Pandit 👋
 
 <!--
 **rajpandit108/rajpandit108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
