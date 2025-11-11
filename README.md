@@ -16,6 +16,10 @@ Tools and Technologies I know
 ### Tools & Platforms
 [![Tools & Platforms](https://skillicons.dev/icons?i=git,vscode,pycharm,mysql,postgresql&theme=light)](https://skillicons.dev)
 
+## Stats & Most Used Languages
+![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajpandit004&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![Raj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajpandit004&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
 ## 📫 Connect With Me
 - [LinkedIn](https://linkedin.com/in/rajpandit004)
 - [X](https://x.com/rajpandit004)
