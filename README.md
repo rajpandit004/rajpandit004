@@ -1,7 +1,7 @@
 ## Hi there! I'm Raj Pandit 👋
 
 ## 🙋‍♂️ About Me
-I'm Raj Pandit, an aspiring Software Developer passionate about building intelligent and efficient solutions. I’m deeply interested in AI/ML, Data Science, and Backend Development, blending analytical thinking with real-world problem-solving. Currently, I’m diving deep into Python through the 100 Days of Code challenge to strengthen my programming skills.
+I'm Raj Pandit, an aspiring Software Developer passionate about building intelligent and efficient solutions. I’m deeply interested in AI/ML, Data Science, and Backend Development. Currently, I’m diving deep into Python through the 100 Days of Code challenge to strengthen my programming skills.
 
 ## 🌱 What I'm Currently Learning
 - Python Programming
@@ -17,6 +17,6 @@ Tools and Technologies I know
 [![Tools & Platforms](https://skillicons.dev/icons?i=vscode,pycharm,git,mysql,postgresql&theme=light)](https://skillicons.dev)
 
 ## 📫 Connect With Me
-- [LinkedIn](linkedin.com/in/rajpandit004)
-- [X](x.com/rajpandit004)
+- [LinkedIn](https://linkedin.com/in/rajpandit004)
+- [X](https://x.com/rajpandit004)
 - [Email](mailto:panditraj618@gmail.com)
