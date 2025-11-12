@@ -10,14 +10,10 @@ I'm Raj Pandit, an aspiring Software Developer passionate about building intelli
 - Building Real-World Projects
 
 ## 💻 Skills & Tech Stacks
-Tools and Technologies I know
-### Languages
-[![Languages](https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=light)](https://skillicons.dev)
-### Tools & Platforms
-[![Tools & Platforms](https://skillicons.dev/icons?i=git,vscode,pycharm,mysql,postgresql&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,python,html,css,git,vscode,pycharm,mysql,postgresql&theme=light)](https://skillicons.dev)
 
 ## 📊 Stats & Most Used Languages
-![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajpandit004&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajpandit004&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 ![Raj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajpandit004&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Connect With Me
