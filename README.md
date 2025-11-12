@@ -15,8 +15,3 @@ I'm Raj Pandit, an aspiring Software Developer passionate about building intelli
 ## 📊 Stats & Most Used Languages
 ![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajpandit004&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 ![Raj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajpandit004&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
-
-## 📫 Connect With Me
-- [LinkedIn](https://linkedin.com/in/rajpandit004)
-- [X](https://x.com/rajpandit004)
-- [Email](mailto:panditraj618@gmail.com)
