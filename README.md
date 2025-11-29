@@ -3,8 +3,8 @@
 ## 💫 About Me:
 - 🧑‍💻 Aspiring Software Developer passionate about solving real-world problems.
 - 🤖 Interested in AI/ML, Data Science, and Backend Development.
-- 🐍 Currently learning Python and SQL.
-- 🚀 Building real-world projects to sharpen skills and gain hands-on experience
+- 🐍 Currently learning SQL and Python.
+- 🚀 Building real-world projects to sharpen skills and gain hands-on experience.
 - 🌐 Exploring backend frameworks like Django.
 
 ## 💻 Tech Stack:
