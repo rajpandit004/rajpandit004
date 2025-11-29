@@ -1,7 +1,11 @@
-# Hi there! I'm Raj 👋
+# Hi there! I'm Raj Pandit 👋
 
 ## 💫 About Me:
-I'm Raj Pandit, an aspiring Software Developer interested in AI/ML, Data Science, and Backend Development. I'm currently focused on Python fundamentals and practical applications, and building real-world projects.
+- 🧑‍💻 Aspiring Software Developer passionate about solving real-world problems.
+- 🤖 Interested in AI/ML, Data Science, and Backend Development.
+- 🐍 Currently learning Python and SQL.
+- 🚀 Building real-world projects to sharpen skills and gain hands-on experience
+- 🌐 Exploring backend frameworks like Django.
 
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql,git,vscode,pycharm&theme=light)](https://skillicons.dev)
