@@ -5,10 +5,10 @@
 - 🤖 Interested in AI/ML, Data Science, and Backend Development.
 - 🐍 Currently learning SQL and Python.
 - 🚀 Building real-world projects to sharpen skills and gain hands-on experience.
-- 🌐 Exploring backend frameworks like Django.
+- 🌐 Diving into backend development using Django.
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql,git,vscode,pycharm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,mysql,postgresql,git,vscode,pycharm&theme=light)](https://skillicons.dev)
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajpandit004) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rajpandit004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:panditraj618@gmail.com) 
